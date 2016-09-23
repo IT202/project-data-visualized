@@ -1,8 +1,11 @@
 # Project - Data Visualized
 
-The purpose of the project is for you to demonstrate your ability to copy and manipulate a Bootstrap template created by someone else.
+The purpose of the project is for you to demonstrate your ability to retrieve data via an API; accept user input to create filter conditions; and visualize the data for the user.  This could be as elements in a Bootstrap layout (similar to our in-class lab), a Google Map, a Google Chart or D3 Chart.
 
-I recommend you use one of the themes available under the "Templates" section of the [w3schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap/default.asp).
+
+Your page (app) should display some instructions, the user should make some filtering choices, and your script should retrieve data via the API and output the results.
+
+
 
 ##Step 1
 
@@ -10,20 +13,20 @@ Clone this repository into your Cloud9 workspace.
 
 ##Step 2
 
-Choose a template from the w3schools options, or if you want to try some other themes, look at [https://startbootstrap.com/](https://startbootstrap.com/).   Make sure to choose a "Landing Page" or "One Page Website" template.
+Choose some data (other than data we've worked with in class), and familiarize yourself with the API.  Learn what data will be returned and how to pass parameters to filter the results.  Practice some basic code examples.
 
 ##Step 3
 
-Download the source file(s), then upload them into the Cloud9 directory that was created in step 1.   (You can upload an entire folder to Cloud9.)
+Determine your page design;  use some existing Bootstrap template where appropriate.  Where and how will users input their filter conditions?   How will the results be displayed?  
 
 ##Step 4
 
-Edit the template to replace all the default content (text, images, map location, etc.) with your own content.   You'll probably have to spend some time "inspect"-ing elements using the Dev Tools to start understanding where any given display element is defined in the template.   
+Code a little, test a little.   Repeat.
 
 
 ##Step 5
 
-Make sure to use the git commands to add and commit your files.
+Make sure to use the git commands to add and commit your index.html file (and any others.)
 
 
 
