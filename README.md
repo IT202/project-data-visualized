@@ -32,6 +32,6 @@ Make sure to use the git commands to add and commit your index.html file (and an
 
 ##Comments and Hints
 
-I expect you to run into problems, but they should easy to fix once you understand the issue.   Don't fight for too long on your own before you post questions on Piazza.
+I expect you to run into problems, but they should be easy to fix once you understand the issue.   Don't fight for too long on your own before you post questions on Piazza.
 
 Cloud9 lets you view Revision History;  the option is under the "File" menu option.
